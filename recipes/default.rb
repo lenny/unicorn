@@ -18,4 +18,5 @@
 # limitations under the License.
 #
 
-gem_package "unicorn"
+# Don't we need Bundler to manage this from application Gemfile???
+# gem_package "unicorn"
